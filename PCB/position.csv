@@ -1,4 +1,4 @@
-Designator,Value,Footprint,Mid X,Mid Y,Rotation,Layer
+Comment,Val,Package,Mid X,Mid Y,Rotation,Layer
 "D1","SK6812MINI","LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm",143.990000,-49.135000,0.000000,top
 "D2","SK6812MINI","LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm",166.850000,-46.595000,0.000000,top
 "RV1","R_Potentiometer","Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",190.260000,-58.300000,90.000000,top
